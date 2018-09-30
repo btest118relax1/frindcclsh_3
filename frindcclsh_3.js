@@ -250,7 +250,7 @@ ${prefix}pause ⇏ إيقآف الأغنية مؤقتا
 ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
  `)
       .setFooter(message.author.tag, message.author.avatarURL)
-      .addField('** Welcome To Bُubbles Shop **', message.guild.name)
+      .addField('** Welcome To Server Elite **', message.guild.name)
 
 
 
